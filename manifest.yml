@@ -1,7 +1,7 @@
 ---
 applications:
 - name: nhcmkt
-  memory: 256M
+  memory: 1024M
   instances: 2
   host: nhcmkt-sean
   path: ./target/pcfdemo.war
