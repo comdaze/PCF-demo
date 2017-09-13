@@ -3,8 +3,8 @@ applications:
 - name: nhcmkt
   memory: 1024M
   instances: 1
-  host: nhcmkt-sean
-  path: ./target/pcfdemo.war
+  host: nhcmkt-blue
+  path: ./target/pcfdemoblue.war
  
 
 
