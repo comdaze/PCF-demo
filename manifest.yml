@@ -2,7 +2,7 @@
 applications:
 - name: prs-demo
   memory: 1024M
-  instances: 1
+  instances: 2
   host: prs-demo-green
   path: ./target/pcfdemogreen.war
  
