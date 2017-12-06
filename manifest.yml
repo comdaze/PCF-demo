@@ -1,9 +1,9 @@
 ---
 applications:
-- name: nhcmkt
+- name: prs-demo
   memory: 1024M
   instances: 1
-  host: nhcmkt-blue
+  host: prs-demo-green
   path: ./target/pcfdemogreen.war
  
 
